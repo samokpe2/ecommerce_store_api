@@ -1,0 +1,856 @@
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Failed to create customer: customerModel.findByEmail is not a function"}
+{"level":"error","message":"Failed to create customer: customerModel.findByEmail is not a function"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Failed to create customer: customerModel.findByEmail is not a function"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"error","message":"SQLITE_ERROR: no such table: customer"}
+{"level":"error","message":"SQLITE_ERROR: no such table: customer"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Failed to create customer: Email is already in use"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Failed to create customer: Email is already in use"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Failed to create customer: Email is already in use"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"samokpe2@gmail.com registered at Mon May 22 2023 02:00:41 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"samokpe2@gmail.com registered at Mon May 22 2023 02:00:51 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"samokpe2@gmail.com registered at Mon May 22 2023 02:05:00 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"samokpe2@gmail.com registered at Mon May 22 2023 02:05:25 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Failed to create customer: Email is already in use"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Cannot convert undefined or null to object"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"samokpe2@gmail.com registered at Mon May 22 2023 02:21:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"samokpe2@gmail.com registered at Mon May 22 2023 02:22:15 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"samokpe2@gmail.com logged in at Mon May 22 2023 02:30:51 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"samokpe2@gmail.com logged in at Mon May 22 2023 02:37:34 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"samokpe2@gmail.com logged in at Mon May 22 2023 02:37:34 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"samokpe2@gmail.com logged in at Mon May 22 2023 02:37:45 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"samokpe2@gmail.com logged in at Mon May 22 2023 02:37:45 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"samokpe2@gmail.com logged in at Mon May 22 2023 02:38:50 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"samokpe2@gmail.com logged in at Mon May 22 2023 02:38:50 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"samokpe2@gmail.com registered at Mon May 22 2023 02:42:49 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"samokpe2@gmail.com logged in at Mon May 22 2023 02:42:58 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"samokpe2@gmail.com logged in at Mon May 22 2023 02:42:58 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"winston is not defined"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Error creating order: payload is not defined","stack":"ReferenceError: payload is not defined\n    at Object.create (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/controllers/v1/orders.js:10:13)\n    at /Users/samuelokpe/Documents/GitHub/ecommerce_store_api/routes/v1/customers.js:22:39\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at verifyToken (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/middleware/auth.js:23:16)\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at Route.dispatch (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:114:3)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Error creating order: payload is not defined","stack":"ReferenceError: payload is not defined\n    at Object.create (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/controllers/v1/orders.js:11:13)\n    at /Users/samuelokpe/Documents/GitHub/ecommerce_store_api/routes/v1/customers.js:22:39\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at verifyToken (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/middleware/auth.js:23:16)\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at Route.dispatch (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:114:3)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"error","message":"Error creating order: payload is not defined","stack":"ReferenceError: payload is not defined\n    at Object.create (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/controllers/v1/orders.js:11:13)\n    at /Users/samuelokpe/Documents/GitHub/ecommerce_store_api/routes/v1/customers.js:22:39\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at verifyToken (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/middleware/auth.js:23:16)\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at Route.dispatch (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:114:3)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Error creating order: payload is not defined","stack":"ReferenceError: payload is not defined\n    at Object.create (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/controllers/v1/orders.js:11:13)\n    at /Users/samuelokpe/Documents/GitHub/ecommerce_store_api/routes/v1/customers.js:22:39\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at verifyToken (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/middleware/auth.js:23:16)\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at Route.dispatch (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:114:3)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Error creating order: payload is not defined","stack":"ReferenceError: payload is not defined\n    at Object.create (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/controllers/v1/orders.js:12:13)\n    at /Users/samuelokpe/Documents/GitHub/ecommerce_store_api/routes/v1/customers.js:22:39\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at verifyToken (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/middleware/auth.js:23:16)\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at Route.dispatch (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:114:3)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"error","message":"Error creating order: payload is not defined","stack":"ReferenceError: payload is not defined\n    at Object.create (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/controllers/v1/orders.js:12:13)\n    at /Users/samuelokpe/Documents/GitHub/ecommerce_store_api/routes/v1/customers.js:22:39\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at verifyToken (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/middleware/auth.js:23:16)\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at Route.dispatch (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:114:3)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Error creating order: payload is not defined","stack":"ReferenceError: payload is not defined\n    at Object.create (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/controllers/v1/orders.js:12:13)\n    at /Users/samuelokpe/Documents/GitHub/ecommerce_store_api/routes/v1/customers.js:22:39\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at verifyToken (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/middleware/auth.js:23:16)\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at Route.dispatch (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:114:3)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Error creating order: payload is not defined","stack":"ReferenceError: payload is not defined\n    at Object.create (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/controllers/v1/orders.js:12:13)\n    at /Users/samuelokpe/Documents/GitHub/ecommerce_store_api/routes/v1/customers.js:22:39\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at verifyToken (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/middleware/auth.js:23:16)\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at Route.dispatch (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:114:3)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Error creating order: payload is not defined","stack":"ReferenceError: payload is not defined\n    at Object.create (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/controllers/v1/orders.js:11:13)\n    at /Users/samuelokpe/Documents/GitHub/ecommerce_store_api/routes/v1/customers.js:22:39\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at verifyToken (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/middleware/auth.js:23:16)\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at Route.dispatch (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:114:3)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Error creating order: payload is not defined","stack":"ReferenceError: payload is not defined\n    at Object.create (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/controllers/v1/orders.js:12:13)\n    at /Users/samuelokpe/Documents/GitHub/ecommerce_store_api/routes/v1/customers.js:22:39\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at verifyToken (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/middleware/auth.js:23:16)\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at Route.dispatch (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:114:3)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Error creating order: payload is not defined","stack":"ReferenceError: payload is not defined\n    at Object.create (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/controllers/v1/orders.js:12:13)\n    at /Users/samuelokpe/Documents/GitHub/ecommerce_store_api/routes/v1/customers.js:22:39\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at verifyToken (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/middleware/auth.js:23:16)\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at Route.dispatch (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:114:3)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Error creating order: payload is not defined","stack":"ReferenceError: payload is not defined\n    at Object.create (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/controllers/v1/orders.js:12:13)\n    at /Users/samuelokpe/Documents/GitHub/ecommerce_store_api/routes/v1/customers.js:22:39\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at verifyToken (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/middleware/auth.js:23:16)\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at Route.dispatch (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:114:3)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Error creating order: orderService.createOrder is not a function","stack":"TypeError: orderService.createOrder is not a function\n    at Object.create (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/controllers/v1/orders.js:15:40)\n    at /Users/samuelokpe/Documents/GitHub/ecommerce_store_api/routes/v1/customers.js:22:39\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at verifyToken (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/middleware/auth.js:23:16)\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at Route.dispatch (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:114:3)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Error creating order: orderService.createOrder is not a function","stack":"TypeError: orderService.createOrder is not a function\n    at Object.create (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/controllers/v1/orders.js:15:40)\n    at /Users/samuelokpe/Documents/GitHub/ecommerce_store_api/routes/v1/customers.js:22:39\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at verifyToken (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/middleware/auth.js:23:16)\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at Route.dispatch (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:114:3)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Error creating order: orderService.createOrder is not a function","stack":"TypeError: orderService.createOrder is not a function\n    at Object.create (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/controllers/v1/orders.js:15:40)\n    at /Users/samuelokpe/Documents/GitHub/ecommerce_store_api/routes/v1/customers.js:22:39\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at verifyToken (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/middleware/auth.js:23:16)\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at Route.dispatch (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:114:3)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Error creating order: orderService.createOrder is not a function","stack":"TypeError: orderService.createOrder is not a function\n    at Object.create (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/controllers/v1/orders.js:15:40)\n    at /Users/samuelokpe/Documents/GitHub/ecommerce_store_api/routes/v1/customers.js:22:39\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at verifyToken (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/middleware/auth.js:23:16)\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at Route.dispatch (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:114:3)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"Error creating order: orderService.createOrder is not a function","stack":"TypeError: orderService.createOrder is not a function\n    at Object.create (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/controllers/v1/orders.js:15:40)\n    at /Users/samuelokpe/Documents/GitHub/ecommerce_store_api/routes/v1/customers.js:22:39\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at verifyToken (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/middleware/auth.js:23:16)\n    at newFn (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:144:13)\n    at Route.dispatch (/Users/samuelokpe/Documents/GitHub/ecommerce_store_api/node_modules/express/lib/router/route.js:114:3)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 03:49:42 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 03:54:02 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 03:54:03 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 03:54:03 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 03:54:04 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 03:54:05 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 03:54:05 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 03:54:06 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 03:54:06 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 03:54:10 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 03:54:10 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 03:54:18 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 03:54:19 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 03:54:40 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 03:54:41 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"error","message":"orderController.retrieve is not a function"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 04:10:47 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 04:11:42 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 04:12:30 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 04:16:01 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 04:16:14 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 04:16:21 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 04:16:36 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 04:18:20 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 04:19:02 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"samokpe2@gmail.com registered at Mon May 22 2023 04:19:11 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"samokpe2@gmail.com logged in at Mon May 22 2023 04:19:14 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"samokpe2@gmail.com logged in at Mon May 22 2023 04:19:14 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 04:19:17 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 04:19:18 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 04:19:19 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 04:19:21 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 04:19:23 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 04:19:23 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 04:19:27 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"samokpe3@gmail.com registered at Mon May 22 2023 04:23:08 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"samokpe3@gmail.com logged in at Mon May 22 2023 04:27:36 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"samokpe3@gmail.com logged in at Mon May 22 2023 04:27:36 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"epia0k5h@gmail.com registered at Mon May 22 2023 04:33:32 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"epia0k5h@gmail.com logged in at Mon May 22 2023 04:33:32 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"epia0k5h@gmail.com logged in at Mon May 22 2023 04:33:32 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"81q63b04@gmail.com registered at Mon May 22 2023 04:34:01 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"81q63b04@gmail.com logged in at Mon May 22 2023 04:34:01 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"81q63b04@gmail.com logged in at Mon May 22 2023 04:34:01 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"samokpe3@gmail.com registered at Mon May 22 2023 04:35:11 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"shrl9xd5@gmail.com registered at Mon May 22 2023 04:35:53 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"shrl9xd5@gmail.com logged in at Mon May 22 2023 04:35:53 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"shrl9xd5@gmail.com logged in at Mon May 22 2023 04:35:53 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"3fqdjg94@gmail.com registered at Mon May 22 2023 04:37:46 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"3fqdjg94@gmail.com logged in at Mon May 22 2023 04:37:46 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"3fqdjg94@gmail.com logged in at Mon May 22 2023 04:37:46 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"59bzlzd6@gmail.com registered at Mon May 22 2023 04:42:34 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"59bzlzd6@gmail.com logged in at Mon May 22 2023 04:42:34 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"59bzlzd6@gmail.com logged in at Mon May 22 2023 04:42:34 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"samokpe3@gmail.com registered at Mon May 22 2023 04:52:47 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"samokpe3@gmail.com logged in at Mon May 22 2023 04:52:55 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"samokpe3@gmail.com logged in at Mon May 22 2023 04:52:55 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"samokpe3@gmail.com registered at Mon May 22 2023 04:54:05 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"samokpe3@gmail.com logged in at Mon May 22 2023 04:54:09 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"samokpe3@gmail.com logged in at Mon May 22 2023 04:54:09 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 04:55:20 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Customer with id 24 created an order at Mon May 22 2023 05:08:32 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:08:36 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:08:47 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:08:50 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:08:54 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:09:03 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:13:03 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"v0ga239g@gmail.com registered at Mon May 22 2023 05:16:29 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"v0ga239g@gmail.com logged in at Mon May 22 2023 05:16:29 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"v0ga239g@gmail.com logged in at Mon May 22 2023 05:16:29 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"v0ga239g@gmail.com logged in at Mon May 22 2023 05:16:29 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"v0ga239g@gmail.com logged in at Mon May 22 2023 05:16:29 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:16:29 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:16:29 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:16:29 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:16:29 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"iey25nel@gmail.com registered at Mon May 22 2023 05:19:43 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"iey25nel@gmail.com logged in at Mon May 22 2023 05:19:43 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"iey25nel@gmail.com logged in at Mon May 22 2023 05:19:43 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"yjvi4357@gmail.com registered at Mon May 22 2023 05:20:25 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"yjvi4357@gmail.com logged in at Mon May 22 2023 05:20:25 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"yjvi4357@gmail.com logged in at Mon May 22 2023 05:20:25 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"yjvi4357@gmail.com logged in at Mon May 22 2023 05:20:25 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"yjvi4357@gmail.com logged in at Mon May 22 2023 05:20:25 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:20:25 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:20:25 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:20:25 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:20:25 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:20:25 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:20:25 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:20:25 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:20:25 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:20:25 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:20:26 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"a8ld3k8s@gmail.com registered at Mon May 22 2023 05:20:54 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"a8ld3k8s@gmail.com logged in at Mon May 22 2023 05:20:54 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"a8ld3k8s@gmail.com logged in at Mon May 22 2023 05:20:54 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"a8ld3k8s@gmail.com logged in at Mon May 22 2023 05:20:54 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"a8ld3k8s@gmail.com logged in at Mon May 22 2023 05:20:54 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:20:54 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:20:54 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:20:54 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:20:54 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:20:54 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:20:54 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:20:54 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:20:54 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"884ys7io@gmail.com registered at Mon May 22 2023 05:21:37 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"884ys7io@gmail.com logged in at Mon May 22 2023 05:21:37 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"884ys7io@gmail.com logged in at Mon May 22 2023 05:21:37 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"884ys7io@gmail.com logged in at Mon May 22 2023 05:21:38 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"884ys7io@gmail.com logged in at Mon May 22 2023 05:21:38 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:21:38 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:21:38 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:21:38 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:21:38 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:21:38 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:21:38 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:21:38 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:21:38 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:21:38 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:21:38 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"zpqfjarh@gmail.com registered at Mon May 22 2023 05:22:17 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"zpqfjarh@gmail.com logged in at Mon May 22 2023 05:22:18 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"zpqfjarh@gmail.com logged in at Mon May 22 2023 05:22:18 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"zpqfjarh@gmail.com logged in at Mon May 22 2023 05:22:18 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"zpqfjarh@gmail.com logged in at Mon May 22 2023 05:22:18 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:22:18 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:22:18 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:22:18 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:22:18 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:22:18 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:22:18 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:22:18 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:22:18 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:22:18 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:22:18 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"i06b8k13@gmail.com registered at Mon May 22 2023 05:23:27 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"i06b8k13@gmail.com logged in at Mon May 22 2023 05:23:27 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"i06b8k13@gmail.com logged in at Mon May 22 2023 05:23:27 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"i06b8k13@gmail.com logged in at Mon May 22 2023 05:23:27 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"i06b8k13@gmail.com logged in at Mon May 22 2023 05:23:27 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:23:27 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:23:27 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:23:27 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:23:27 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:23:27 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:23:27 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:23:27 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:23:27 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:23:27 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:23:27 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"stbmz03c@gmail.com registered at Mon May 22 2023 05:25:03 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"stbmz03c@gmail.com logged in at Mon May 22 2023 05:25:03 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"stbmz03c@gmail.com logged in at Mon May 22 2023 05:25:03 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"stbmz03c@gmail.com logged in at Mon May 22 2023 05:25:03 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"stbmz03c@gmail.com logged in at Mon May 22 2023 05:25:03 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:03 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:03 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:03 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:03 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:03 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:03 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:03 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:03 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:03 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:03 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"0lyk1wsg@gmail.com registered at Mon May 22 2023 05:25:17 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"0lyk1wsg@gmail.com logged in at Mon May 22 2023 05:25:17 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"0lyk1wsg@gmail.com logged in at Mon May 22 2023 05:25:17 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"0lyk1wsg@gmail.com logged in at Mon May 22 2023 05:25:17 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"0lyk1wsg@gmail.com logged in at Mon May 22 2023 05:25:17 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:17 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:17 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:17 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:17 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:17 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:17 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:17 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:17 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:17 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:25:17 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"5tbvpo3d@gmail.com registered at Mon May 22 2023 05:32:32 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"5tbvpo3d@gmail.com logged in at Mon May 22 2023 05:32:32 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"5tbvpo3d@gmail.com logged in at Mon May 22 2023 05:32:32 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"5tbvpo3d@gmail.com logged in at Mon May 22 2023 05:32:32 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"5tbvpo3d@gmail.com logged in at Mon May 22 2023 05:32:32 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:32:32 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:32:32 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:32:32 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:32:32 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:32:32 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:32:32 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:32:32 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:32:32 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:32:32 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:32:32 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"3r6tf4rq@gmail.com registered at Mon May 22 2023 05:39:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"3r6tf4rq@gmail.com logged in at Mon May 22 2023 05:39:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"3r6tf4rq@gmail.com logged in at Mon May 22 2023 05:39:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"3r6tf4rq@gmail.com logged in at Mon May 22 2023 05:39:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"3r6tf4rq@gmail.com logged in at Mon May 22 2023 05:39:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:39:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:39:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:39:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:39:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:39:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:39:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:39:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:39:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:39:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:39:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"q7l8nvkt@gmail.com registered at Mon May 22 2023 05:43:04 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"q7l8nvkt@gmail.com logged in at Mon May 22 2023 05:43:04 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"q7l8nvkt@gmail.com logged in at Mon May 22 2023 05:43:04 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"q7l8nvkt@gmail.com logged in at Mon May 22 2023 05:43:04 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"q7l8nvkt@gmail.com logged in at Mon May 22 2023 05:43:04 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:04 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:04 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:04 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:04 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:04 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:04 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:04 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:04 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:04 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:04 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"6t0ygzw2@gmail.com registered at Mon May 22 2023 05:43:15 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"6t0ygzw2@gmail.com logged in at Mon May 22 2023 05:43:15 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"6t0ygzw2@gmail.com logged in at Mon May 22 2023 05:43:15 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"6t0ygzw2@gmail.com logged in at Mon May 22 2023 05:43:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"6t0ygzw2@gmail.com logged in at Mon May 22 2023 05:43:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:16 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Listening on port 8000..."}
+{"level":"info","message":"ixx562mu@gmail.com registered at Mon May 22 2023 05:43:28 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"ixx562mu@gmail.com logged in at Mon May 22 2023 05:43:28 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"ixx562mu@gmail.com logged in at Mon May 22 2023 05:43:28 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"ixx562mu@gmail.com logged in at Mon May 22 2023 05:43:28 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"ixx562mu@gmail.com logged in at Mon May 22 2023 05:43:28 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:28 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:28 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:28 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:28 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:28 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:28 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:28 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:28 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:28 GMT+0100 (West Africa Standard Time)"}
+{"level":"info","message":"Customer with id 1 created an order at Mon May 22 2023 05:43:28 GMT+0100 (West Africa Standard Time)"}
