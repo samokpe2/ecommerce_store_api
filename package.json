@@ -4,6 +4,7 @@
   "description": "Backend test",
   "main": "index.js",
   "scripts": {
+    "serve": "nodemon index.js",
     "test": "mocha tests/*Test.js",
     "coverage": "nyc mocha tests/*Test.js"
   },
